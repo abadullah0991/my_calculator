@@ -1,0 +1,27 @@
+.text-center {
+    text-align: center;
+    font-family: serif;
+
+}
+
+
+
+.mx-auto{
+    margin: auto;
+
+}
+.w-m-20{
+    max-width: 50vw;
+}
+.flex{
+    display: flex;
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.item-center{
+    align-items: center;
+}

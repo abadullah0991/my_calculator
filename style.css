@@ -1,0 +1,29 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(164, 162, 162);
+}
+.button{
+    padding: 9px;
+    margin: 3px 16px;
+    border: 5px solid rgb(246, 100, 3);
+    border-radius: 12px;
+    cursor: pointer;
+    background: #f8f6f6;
+    font-size: 2rem;
+   
+}   
+.row {
+margin: 15px 0;
+flex:auto;
+
+}
+.row input {
+    padding: 19px 32px;
+    border: 5px solid rgb(227, 75, 4);
+    border-radius: 20px;
+    font-size: 1.2rem;
+    text-align: right;
+    flex:auto;
+}
